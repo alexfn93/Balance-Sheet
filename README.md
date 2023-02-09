@@ -23,7 +23,7 @@ link do projeto: <a href="https://balance-sheet-rho.vercel.app/" target="_blank"
 ## Descrição do projeto 
 
 <p align="justify">
- 
+ I created a simple page about balance sheet. I used HTML and CSS to create this page. 
 
 </p>
 
