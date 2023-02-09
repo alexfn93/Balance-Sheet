@@ -7,7 +7,7 @@
 
 <div>
 
-link do projeto: <a href="https://balance-sheet-rho.vercel.app/" target="_blank">Balance Sheet</a>
+Link da página: <a href="https://balance-sheet-rho.vercel.app/" target="_blank">Balance Sheet</a>
 
 
 </div>
